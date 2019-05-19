@@ -1023,7 +1023,7 @@ Floated Menu / Item
 }
 
 /* Inverted */
-.ui.secondary.inverted.pointing.menu {
+/* .ui.secondary.inverted.pointing.menu {
   border-color: rgba(255, 255, 255, 0.1);
 }
 .ui.secondary.inverted.pointing.menu {
@@ -1035,7 +1035,7 @@ Floated Menu / Item
 }
 .ui.secondary.inverted.pointing.menu .header.item {
   color: #FFFFFF !important;
-}
+} */
 
 /* Hover */
 .ui.secondary.inverted.pointing.menu .link.item:hover,
@@ -1384,7 +1384,7 @@ Floated Menu / Item
 
 .ui.inverted.menu {
   border: 0px solid transparent;
-  background: #1B1C1D;
+  background: #000000;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
