@@ -937,7 +937,7 @@ Floated Menu / Item
 .ui.secondary.pointing.menu {
   margin-left: 0em;
   margin-right: 0em;
-  border-bottom: 2px solid rgba(34, 36, 38, 0.15);
+  /* border-bottom: 2px solid rgba(34, 36, 38, 0.15); */
 }
 .ui.secondary.pointing.menu .item {
   border-bottom-color: transparent;
@@ -1958,9 +1958,9 @@ Floated Menu / Item
 }
 
 /* Tabular Attached */
-.ui.attached.menu:not(.tabular) {
+/* .ui.attached.menu:not(.tabular) {
   border: 1px solid #D4D4D5;
-}
+} */
 .ui.attached.inverted.menu {
   border: none;
 }
