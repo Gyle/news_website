@@ -2,8 +2,8 @@
     display: none;
   }
 
-  .nav{
-    background: black;
+  .spacer{
+    padding-top: 30px;
   }
 
   .masthead.segment {
