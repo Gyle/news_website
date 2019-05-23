@@ -10,6 +10,10 @@
     font-size: 5.2rem;
   }
 
+  .main-headlines{
+    height: 300px;
+  }
+
   .caption{
     color:#707070;
   }
