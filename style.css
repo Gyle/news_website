@@ -24,6 +24,8 @@
   
   .read-more{
     color: #00E8BB;
+    width: 100%;
+    text-align: left;
   }
 
   .masthead.segment {
@@ -85,6 +87,11 @@
 
 .main-media{
     float: right;
+}
+
+.middle-content{
+  width: 100%;
+  float: right;
 }
 
   @media only screen and (max-width: 700px) {
