@@ -20,3 +20,7 @@
 8. The misaligned icons bothered me too much, so I did heavy reasearch and found this forum post which fixed the alignment and responsiveness of the web page. Link: https://stackoverflow.com/questions/47124885/right-floated-and-left-floated-elements-go-out-of-container-in-semantic-ui
 
 9. I was having trouble fixing the responsivess of some header text and the top navigation bar despite reading the Semantic UI documentation. Therefore, I just left it as is since the website content is mostly responsive.
+
+10. I added image icons for search and login, however, the login icon was tiny and I could not make it working.
+
+11. Reading the Semantic UI Image documentation, I worked out how to make it the size I wanted it to be.
