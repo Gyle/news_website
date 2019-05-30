@@ -63,7 +63,7 @@
     clear: both;
   }
   .ui.vertical.stripe p {
-    font-size: 1.33em;
+    font-size: 1.33em; 
   }
   .ui.vertical.stripe .horizontal.divider {
     margin: 3em 0em;
@@ -92,6 +92,12 @@
 .middle-content{
   width: 100%;
   float: right;
+}
+
+.top-tea-posterinfo{
+  color: #00E8BB;
+  text-align: left;
+  font-size: 1em !important;
 }
 
   @media only screen and (max-width: 700px) {
