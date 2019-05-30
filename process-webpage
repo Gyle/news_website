@@ -1,0 +1,22 @@
+1. Researched into technologies for developing websites. I found a front-end web framework called Semantic UI.
+
+2. Browsed Semantic UI example websites and looked at the documentation to get an idea of how to implement it into my reponsive web page.
+
+3. Did a rough draft with the help of one of the Semantic UI template examples.
+  * assets folder: images
+  * semantics folder: Semantic UI front-end framework
+  * index.html: source code
+  * style.css: my styles and template styles
+  * template.js: template animation for navbar re-appaearing after passing top section
+
+4. Looked at Semantic UI Grid documentation to workout how to implement the middle section.
+
+5. I had trouble working out how to align the bookmark icon on my top tea news as it is in my design, so I left it as it is.
+
+6. I implemented a grid container for the bottom section using the Semantic UI Grid documentation as a guide.
+
+7. I tried to align the social media icons to the right in my top section; however, it would ruin the responsiveness of the webpage so I did not right align the social media icons.
+
+8. The misaligned icons bothered me too much, so I did heavy reasearch and found this forum post which fixed the alignment and responsiveness of the web page. Link: https://stackoverflow.com/questions/47124885/right-floated-and-left-floated-elements-go-out-of-container-in-semantic-ui
+
+9. I was having trouble fixing the responsivess of some header text and the top navigation bar despite reading the Semantic UI documentation. Therefore, I just left it as is since the website content is mostly responsive.
