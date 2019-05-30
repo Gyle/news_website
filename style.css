@@ -52,6 +52,10 @@ html * {
     font-weight: normal;
   }
 
+  .masthead{
+    overflow: hidden;
+  }
+
   .ui.vertical.stripe {
     padding: 8em 0em;
   }
@@ -88,10 +92,6 @@ html * {
   .secondary.pointing.menu .toc.item {
     display: none;
   }
-
-.main-media{
-    float: right;
-}
 
 .middle-content{
   width: 100%;
